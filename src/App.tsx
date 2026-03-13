@@ -269,7 +269,7 @@ function App() {
               </div>
               <p style={{ fontSize: '0.75rem', color: '#5D4037', marginBottom: '12px' }}>Love the way you learn? Support the developer by buying a traditional Filter Coffee!</p>
               <a
-                href="https://www.buymeacoffee.com/yourusername"
+                href="https://www.buymeacoffee.com/anushavenna"
                 target="_blank"
                 rel="noreferrer"
                 className="coffee-btn"
